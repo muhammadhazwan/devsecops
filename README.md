@@ -1,1 +1,1 @@
-# DevSecPps
+# DevSecOps
